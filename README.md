@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Proficiencies:
+
+- 📚 JavaScript, TypeScript, Node.js with Serverless and Containers and Microservices architecture
+- 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
+- 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
+- 📚 Angular, RxJS, NgRx
+- 📚 Svelte and Stencil + Storybook + Web Components
+- 📚 SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB, Redis)
+- 📚 AWS, Azure and GCP
+- 📚 Go lang, Move lang, Rust
+- 📚 HTML5/CSS3 + Canvas + WebGL + Animation
+- 📚 Agile, Scrum, Kanban
+- 📚 Web2/Web3 startups
+- 📚 Cryptography (cryptocurrency and blockchain)
+- 📚 Team Leadership
+- 📚 Project Leadership
